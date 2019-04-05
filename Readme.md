@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainWindow.xaml](./CS/colGeneration/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/colGeneration/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/colGeneration/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/colGeneration/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/colGeneration/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/colGeneration/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to format GridControl columns using data attributes and Fluent API
 
