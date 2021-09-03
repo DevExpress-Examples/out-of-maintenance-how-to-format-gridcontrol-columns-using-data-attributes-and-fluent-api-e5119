@@ -1,4 +1,4 @@
-﻿using DevExpress.Xpf.Mvvm.DataAnnotations;
+﻿using DevExpress.Mvvm.DataAnnotations;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;

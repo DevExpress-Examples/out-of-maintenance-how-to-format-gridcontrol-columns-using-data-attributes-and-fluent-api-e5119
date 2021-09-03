@@ -1,5 +1,5 @@
 ﻿Imports Microsoft.VisualBasic
-Imports DevExpress.Xpf.Mvvm.DataAnnotations
+Imports DevExpress.Mvvm.DataAnnotations
 Imports System
 Imports System.Collections.Generic
 Imports System.Collections.ObjectModel
